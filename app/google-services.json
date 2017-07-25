@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "60785584011",
+    "firebase_url": "https://hvgochat-1820d.firebaseio.com",
+    "project_id": "hvgochat-1820d",
+    "storage_bucket": "hvgochat-1820d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60785584011:android:6eca7d9502cccaec",
+        "android_client_info": {
+          "package_name": "info.emotionalronan.hvgochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60785584011-8pe4l1uqgsup254t1dakiph7qit3s3dk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.emotionalronan.hvgochat",
+            "certificate_hash": "7819332ad6bdee2aca7ddeb9093fb0d12a1f23ef"
+          }
+        },
+        {
+          "client_id": "60785584011-9vbvin3stg1hl3uglkcd6b1ds87ahdpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs38pICF1PGAtmPYWhWvry2u4mtoyVZ5Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60785584011-9vbvin3stg1hl3uglkcd6b1ds87ahdpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
